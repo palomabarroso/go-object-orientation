@@ -1,7 +1,7 @@
 package account
 
 import (
-	"go-object-orientation/client"
+	"github.com/palomabarroso/go-object-orientation/client"
 )
 
 type ContaCorrente struct {

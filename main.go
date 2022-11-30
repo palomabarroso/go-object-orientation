@@ -2,8 +2,9 @@ package main
 
 import (
 	"fmt"
-	"go-object-orientation/account"
-	"go-object-orientation/client"
+
+	"github.com/palomabarroso/go-object-orientation/account"
+	"github.com/palomabarroso/go-object-orientation/client"
 )
 
 type verificarConta interface {
